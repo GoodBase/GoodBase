@@ -18,6 +18,6 @@ Mesa, Arizona 85202
 - http://www.volunteermatch.org/search/org745813.jsp
 
 ### Data
-EIN: 26-2755631
-NTEE: O01
-Founded: 2008
+- EIN: 26-2755631
+- NTEE: O01
+- Founded: 2008
